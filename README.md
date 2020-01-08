@@ -7,3 +7,6 @@ https://progrunning.net/customizing-corner-radius/
 
 #Lien pour personnaliser les entry
 https://www.c-sharpcorner.com/article/custom-entry-using-xamarin-forms/
+
+#Lien pour faire un masterDetailPage
+https://www.youtube.com/watch?v=T3sbn3sFeHo
