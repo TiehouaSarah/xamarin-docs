@@ -10,3 +10,5 @@ https://www.c-sharpcorner.com/article/custom-entry-using-xamarin-forms/
 
 #Lien pour faire un masterDetailPage
 https://www.youtube.com/watch?v=T3sbn3sFeHo
+
+#Créer une listview, mettre des éléments à l'intérieur avec un observableCollection http://xamaringuyshow.com/2018/09/26/xamarin-forms-listview-easywaytutorial-5/
