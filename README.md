@@ -12,3 +12,5 @@ https://www.c-sharpcorner.com/article/custom-entry-using-xamarin-forms/
 https://www.youtube.com/watch?v=T3sbn3sFeHo
 
 #Créer une listview, mettre des éléments à l'intérieur avec un observableCollection http://xamaringuyshow.com/2018/09/26/xamarin-forms-listview-easywaytutorial-5/
+
+#Lien pour passer des données d'une page à l'autre https://www.youtube.com/watch?v=Et6KCB1zeX8
