@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=T3sbn3sFeHo
 #Lien pour passer des données d'une page à l'autre https://www.youtube.com/watch?v=Et6KCB1zeX8
 
 #Rendre le texte d'un bouton  en minuscule https://stackoverflow.com/questions/47545369/xamarin-forms-button-text-always-showing-in-uppercase
+
+#Pour faire un stepper https://stackoverflow.com/questions/53114621/xamarin-forms-custom-stepper
